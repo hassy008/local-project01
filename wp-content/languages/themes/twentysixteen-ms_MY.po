@@ -1,0 +1,329 @@
+# Translation of Themes - Twenty Sixteen in Malay
+# This file is distributed under the same license as the Themes - Twenty Sixteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-18 05:38:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ms\n"
+"Project-Id-Version: Themes - Twenty Sixteen\n"
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Sixteen"
+msgstr "Twenty Sixteen"
+
+#. Description of the plugin/theme
+msgid "Twenty Sixteen is a modernized take on an ever-popular WordPress layout — the horizontal masthead with an optional right sidebar that works perfectly for blogs and websites. It has custom color options with beautiful default color schemes, a harmonious fluid grid using a mobile-first approach, and impeccable polish in every detail. Twenty Sixteen will make your WordPress look beautiful everywhere."
+msgstr "Twenty Sixteen adalah pengambilan yang dimodenkan daripada susn atur WordPress yang sentiasa popular — inulangan mendatar dengan palang tepi kanan pilihan yang berfungsi dengan sempurna pada blog dan laman web. Ia mempunyai pilihan warna tersuai dengan skema warna lalai yang indah, grid bendalir berhamoni menggunakan pendekatan mudahalih dahulu, dan gilapan sempurna dalam setiap perincian. Twenty Sixteen akan menjadikan WordPress anda kelihatan indah di merata tempat."
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:194 template-parts/content.php:29
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Teruskan membaca<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: Name of current post
+#: image.php:88 template-parts/content-page.php:39
+#: template-parts/content-search.php:28 template-parts/content-search.php:43
+#: template-parts/content-single.php:47 template-parts/content.php:53
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Sunting<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/customizer.php:324
+msgid "Red"
+msgstr "Merah"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Satu pandangan di &ldquo;%s&rdquo;"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Cari"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Cari ..."
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Carian untuk:"
+
+#: footer.php:30
+msgid "Footer Social Links Menu"
+msgstr "Menu Pautan Sosial Pengaki"
+
+#: footer.php:17
+msgid "Footer Primary Menu"
+msgstr "Menu Utama Pengaki"
+
+#: functions.php:167
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Tambah pemalam di sini untuk menampilkannya di palang sisi."
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Pilihan"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nampaknya kami tidak dapat mencari apa yang anda inginkan. Mungkin membuat carian dapat membantu."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tiada padanan untuk istilah carian anda. Sila cuba semula dengan kata kunci yang lain."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sedia untuk menerbitkan kiriman pertama anda? <a href=\"%1$s\">Mulakan di sini</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Tiada Dijumpai"
+
+#: template-parts/biography.php:33
+msgid "View all posts by %s"
+msgstr "Lihat semua kiriman oleh %s"
+
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr "Pengarang:"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Kiriman sebelumnya:"
+
+#: single.php:41
+msgid "Previous"
+msgstr "Sebelum"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Kiriman seterusnya:"
+
+#: single.php:38
+msgid "Next"
+msgstr "Seterusnya"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Hasil Carian bagi: %s"
+
+#: inc/template-tags.php:112
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Tag"
+
+#: inc/template-tags.php:103
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategori"
+
+#: inc/template-tags.php:99 inc/template-tags.php:108
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:83
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Dikirimkan pada"
+
+#: inc/template-tags.php:40
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+#: inc/template-tags.php:52
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Tinggalkan ulasan<span class=\"screen-reader-text\"> di %s</span>"
+
+#: inc/template-tags.php:26
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Pengarang"
+
+#: inc/customizer.php:334
+msgid "Yellow"
+msgstr "Kuning"
+
+#: inc/customizer.php:314
+msgid "Gray"
+msgstr "Kelabu"
+
+#: inc/customizer.php:304
+msgid "Dark"
+msgstr "Gelap"
+
+#: inc/customizer.php:204
+msgid "Main Text Color"
+msgstr "Warna Teks Utama"
+
+#: inc/customizer.php:294
+msgid "Default"
+msgstr "Lalai"
+
+#: inc/customizer.php:222
+msgid "Secondary Text Color"
+msgstr "Warna Teks Sekunder"
+
+#: inc/customizer.php:186
+msgid "Link Color"
+msgstr "Warna Pautan"
+
+#: inc/customizer.php:165
+msgid "Page Background Color"
+msgstr "Warna Latar Belakang Halaman"
+
+#: image.php:107 single.php:31
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Diterbikan dalam</span><span class=\"post-title\">%title</span>"
+
+#: inc/back-compat.php:41 inc/back-compat.php:54 inc/back-compat.php:70
+msgid "Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Sixteen memerlukan sekurang-kurangnya WordPress versi 4.4. Anda menggunakan versi %s. Sila naik taraf dan cuba lagi."
+
+#: inc/customizer.php:145
+msgid "Base Color Scheme"
+msgstr "Skema Warna Dasar"
+
+#: image.php:77
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Saiz penuh"
+
+#: image.php:58 template-parts/content-page.php:24
+#: template-parts/content-single.php:26 template-parts/content.php:36
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Imej Seterusnya"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Imej Sebelum"
+
+#: header.php:49
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Langkau ke kandungan"
+
+#: functions.php:301
+msgid "expand child menu"
+msgstr "kembangkan menu anak"
+
+#: functions.php:302
+msgid "collapse child menu"
+msgstr "runtuhkan menu anak"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:227
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "hidupkan"
+
+#: functions.php:177
+msgid "Content Bottom 1"
+msgstr "Kandungan Bawah 1"
+
+#: functions.php:179 functions.php:191
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr "Kelihatan di bawah kandungan pada kiriman dan halaman."
+
+#: functions.php:189
+msgid "Content Bottom 2"
+msgstr "Kandungan Bawah 2"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:217
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "hidup"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:222
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "hidup"
+
+#: functions.php:165
+msgid "Sidebar"
+msgstr "Bar sisi"
+
+#: functions.php:92 header.php:66
+msgid "Social Links Menu"
+msgstr "Menu Pautan Sosial"
+
+#: functions.php:91 header.php:53
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: footer.php:61
+msgid "Proudly powered by %s"
+msgstr "Dengan bangganya dikuasakan oleh %s"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Komen telah ditutup."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s pandangan di &ldquo;%2$s&rdquo;"
+
+#: archive.php:53 image.php:62 index.php:50 search.php:41
+#: template-parts/content-page.php:28 template-parts/content-single.php:30
+#: template-parts/content.php:40
+msgid "Page"
+msgstr "Page"
+
+#: archive.php:52 index.php:49 search.php:40
+msgid "Next page"
+msgstr "Halaman selepas"
+
+#: archive.php:51 index.php:48 search.php:39
+msgid "Previous page"
+msgstr "Halaman sebelum"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Nampaknya tiada dijumpai di lokasi ini. Mungkin anda boleh cuba membuat carian?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Laman tersebut tidak dapat dijumpai."
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentysixteen/"
+msgstr "https://wordpress.org/themes/twentysixteen/"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "pasukan WordPress"
+
+#. #-#-#-#-#  twentysixteen.pot (Twenty Sixteen 1.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:60
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"

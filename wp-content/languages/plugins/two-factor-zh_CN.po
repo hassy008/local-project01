@@ -1,0 +1,365 @@
+# Translation of Plugins - Two-Factor - Development (trunk) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Two-Factor - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-05 07:30:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Two-Factor - Development (trunk)\n"
+
+#. Author of the plugin
+msgid "Plugin Contributors"
+msgstr "插件贡献者"
+
+#. Author URI of the plugin
+msgid "https://github.com/georgestephanis/two-factor/graphs/contributors"
+msgstr "https://github.com/georgestephanis/two-factor/graphs/contributors"
+
+#: providers/class.two-factor-fido-u2f-admin.php:100
+msgid "FIDO U2F appears to be not supported by your web browser. Try using Google Chrome or Firefox."
+msgstr "你的浏览器似乎不支持 FIDO U2F，请尝试使用 Google Chrome 或 Firefox。"
+
+#: class.two-factor-core.php:258
+msgid "Error: API login for user disabled."
+msgstr "错误：已被用户后台设置禁止 API 登录。"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/two-factor/"
+msgstr "https://wordpress.org/plugins/two-factor/"
+
+#: providers/class.two-factor-totp.php:107
+msgid "Reset Key"
+msgstr "重置密钥"
+
+#: providers/class.two-factor-totp.php:148
+msgid "Invalid Two Factor Authentication secret key."
+msgstr "无效的双重验证密钥。"
+
+#: providers/class.two-factor-totp.php:145
+msgid "Invalid Two Factor Authentication code."
+msgstr "无效的双重验证代码。"
+
+#: providers/class.two-factor-totp.php:109
+msgid "You will have to re-scan the QR code on all devices as the previous codes will stop working."
+msgstr "之前的代码将停止工作，您将必须用您的设备重新扫描二维码。"
+
+#: providers/class.two-factor-totp.php:104
+msgid "Secret key configured and registered."
+msgstr "密钥配置及注册。"
+
+#. translators: Login screen title. 1: Login screen name, 2: Network or site
+#. name
+#: includes/function.login-header.php:43
+msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
+msgstr "%1$s &lsaquo; %2$s &#8212; WordPress"
+
+#: providers/class.two-factor-email.php:183
+msgid "Resend Code"
+msgstr "重新发送验证码"
+
+#: class.two-factor-core.php:307 class.two-factor-core.php:621
+#: class.two-factor-core.php:634
+msgid "Failed to create a login nonce."
+msgstr "无法创建登录阶段。"
+
+#: providers/class.two-factor-fido-u2f-admin.php:186
+msgctxt "security key"
+msgid "Register New Key"
+msgstr "注册新密钥"
+
+#: providers/class.two-factor-fido-u2f-admin.php:93
+msgid "Request OK."
+msgstr "请求 OK。"
+
+#: providers/class.two-factor-fido-u2f.php:124
+msgctxt "Provider Label"
+msgid "FIDO Universal 2nd Factor (U2F)"
+msgstr "FIDO 通用第二因素（U2F）"
+
+#: providers/class.two-factor-fido-u2f-admin.php:179
+msgid "U2F requires an HTTPS connection. You won't be able to add new security keys over HTTP."
+msgstr "U2F 需要 HTTPS 连接。您无法通过 HTTP 连接添加新的安全密钥。"
+
+#: providers/class.two-factor-fido-u2f.php:233
+msgid "Requires an HTTPS connection. Configure your security keys in the \"Security Keys\" section below."
+msgstr "需要 HTTPS 连接。在下面的“安全密钥”部分配置安全密钥。"
+
+#: providers/class.two-factor-fido-u2f.php:150
+msgid "U2F requires an HTTPS connection. Please use an alternative 2nd factor method."
+msgstr "U2F 需要 HTTPS 连接。请使用替代的双重验证方法。"
+
+#: providers/class.two-factor-fido-u2f-admin.php:98
+msgid "U2F request timeout reached."
+msgstr "U2F 请求超时。"
+
+#: providers/class.two-factor-fido-u2f-admin.php:97
+msgid "U2F device ineligible."
+msgstr "U2F 设备不合格。"
+
+#: providers/class.two-factor-fido-u2f-admin.php:96
+msgid "Unsupported U2F configuration."
+msgstr "不支持的 U2F 配置。"
+
+#: providers/class.two-factor-fido-u2f-admin.php:95
+msgid "Bad U2F request."
+msgstr "错误的 U2F 请求。"
+
+#: providers/class.two-factor-fido-u2f-admin.php:94
+msgid "Other U2F error."
+msgstr "其他的 U2F 错误。"
+
+#: providers/class.two-factor-fido-u2f-admin.php:90
+msgid "U2F request failed."
+msgstr "U2F 请求失败。"
+
+#: providers/class.two-factor-totp.php:59
+msgctxt "Provider Label"
+msgid "Time Based One-Time Password (Google Authenticator)"
+msgstr "基于时间的一次性密码（Google 身份验证器）"
+
+#: providers/class.two-factor-fido-u2f-admin.php:298
+msgid "Delete"
+msgstr "删除"
+
+#: providers/class.two-factor-fido-u2f-admin.php:281
+msgid "Rename"
+msgstr "重命名"
+
+#: providers/class.two-factor-email.php:55
+msgctxt "Provider Label"
+msgid "Email"
+msgstr "电子邮件"
+
+#: providers/class.two-factor-fido-u2f-admin-list-table.php:28
+msgid "Last Used"
+msgstr "最近使用"
+
+#: providers/class.two-factor-fido-u2f-admin-list-table.php:139
+msgid "Cancel"
+msgstr "取消"
+
+#: providers/class.two-factor-fido-u2f-admin-list-table.php:140
+msgid "Update"
+msgstr "更新"
+
+#: providers/class.two-factor-fido-u2f-admin-list-table.php:27
+msgid "Added"
+msgstr "已添加"
+
+#: providers/class.two-factor-fido-u2f-admin-list-table.php:118
+msgid "Quick Edit"
+msgstr "快速编辑"
+
+#: providers/class.two-factor-dummy.php:54
+msgid "Are you really you?"
+msgstr "真的是您吗？"
+
+#: providers/class.two-factor-totp.php:100
+#: providers/class.two-factor-backup-codes.php:274
+msgid "Submit"
+msgstr "提交"
+
+#: providers/class.two-factor-email.php:178
+#: providers/class.two-factor-backup-codes.php:270
+msgid "Verification Code:"
+msgstr "验证码："
+
+#: providers/class.two-factor-backup-codes.php:137
+msgid "Download Codes"
+msgstr "下载代码"
+
+#: providers/class.two-factor-backup-codes.php:123
+msgid "Generate Verification Codes"
+msgstr "生成验证码"
+
+#: includes/function.login-header.php:98
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. translators: %s: site name.
+#: class.two-factor-core.php:470
+msgid "&larr; Back to %s"
+msgstr "&larr; 回到 %s"
+
+#: providers/class.two-factor-totp.php:425
+msgid "Authenticate"
+msgstr "验证"
+
+#: providers/class.two-factor-totp.php:97
+#: providers/class.two-factor-totp.php:411
+msgid "Authentication Code:"
+msgstr "验证码："
+
+#: providers/class.two-factor-fido-u2f-admin.php:193
+msgid "Your new security key registered."
+msgstr "您的新安全密钥已注册。"
+
+#: providers/class.two-factor-fido-u2f-admin.php:175
+msgid "Security Keys"
+msgstr "安全密钥"
+
+#: providers/class.two-factor-fido-u2f.php:178
+#: providers/class.two-factor-fido-u2f-admin.php:89
+msgid "Now insert (and tap) your Security Key."
+msgstr "现在插入并点按您的安全密钥。"
+
+#: providers/class.two-factor-email.php:180
+msgid "Log In"
+msgstr "登录"
+
+#: providers/class.two-factor-email.php:176
+msgid "A verification code has been sent to the email address associated with your account."
+msgstr "验证码已发送到与您的帐户关联的电子邮件地址。"
+
+#: providers/class.two-factor-dummy.php:41
+msgctxt "Provider Label"
+msgid "Dummy Method"
+msgstr "虚拟方法"
+
+#: providers/class.two-factor-fido-u2f-admin-list-table.php:26
+#: providers/class.two-factor-fido-u2f-admin-list-table.php:121
+#: class.two-factor-core.php:749
+msgid "Name"
+msgstr "名称"
+
+#: class.two-factor-core.php:748
+msgid "Primary"
+msgstr "默认"
+
+#: class.two-factor-core.php:747
+msgid "Enabled"
+msgstr "启用"
+
+#: class.two-factor-core.php:705
+msgid "Disabled"
+msgstr "禁用"
+
+#: class.two-factor-core.php:659
+msgid "You have logged in successfully."
+msgstr "您已成功登录。"
+
+#: class.two-factor-core.php:637
+msgid "ERROR: Invalid verification code."
+msgstr "错误：验证码无效。"
+
+#. translators: %s: Two-factor method name.
+#: class.two-factor-core.php:425
+msgid "Or, use your backup method: %s &rarr;"
+msgstr "或者，使用您的备份方法：%s＆rarr;"
+
+#: providers/class.two-factor-totp.php:86
+msgid "Please scan the QR code or manually enter the key, then enter an authentication code from your app in order to complete setup."
+msgstr "请扫描二维码或手动输入密钥，然后从您的应用程序获取验证码并输入以完成设置。"
+
+#: providers/class.two-factor-dummy.php:56
+msgid "Yup."
+msgstr "是的。"
+
+#. translators: %s: token
+#: providers/class.two-factor-email.php:153
+msgid "Enter %s to log in."
+msgstr "输入 %s 进行登录。"
+
+#. translators: %s: version number
+#: class.two-factor-core.php:96
+msgid "FIDO U2F is not available because you are using PHP %s. (Requires 5.3 or greater)"
+msgstr "由于您使用的是 PHP %s，因此无法使用 FIDO U2F。（要求 PHP 5.3 或更高）"
+
+#: class.two-factor-core.php:465
+msgid "Are you lost?"
+msgstr "走错地方了？"
+
+#. translators: %s: site name
+#: providers/class.two-factor-email.php:151
+msgid "Your login confirmation code for %s"
+msgstr "来自 %s 的登录验证码"
+
+#: class.two-factor-core.php:741
+msgid "Two-Factor Options"
+msgstr "Two-Factor 选项"
+
+#: class.two-factor-core.php:340 class.two-factor-core.php:611
+msgid "Cheatin&#8217; uh?"
+msgstr "开玩笑，呵？"
+
+#: providers/class.two-factor-totp.php:142
+msgid "Unable to save Two Factor Authentication code. Please re-scan the QR code and enter the code provided by your application."
+msgstr "无法保存双重验证代码。请重新扫描二维码并输入您的应用程序提供的代码。"
+
+#: providers/class.two-factor-fido-u2f.php:162
+msgid "An error occurred while creating authentication data."
+msgstr "创建验证数据时发生错误。"
+
+#: providers/class.two-factor-fido-u2f-admin.php:336
+msgid "Item not updated."
+msgstr "项目未更新。"
+
+#: providers/class.two-factor-fido-u2f.php:269
+msgid "New Security Key"
+msgstr "新增安全密钥"
+
+#: providers/class.two-factor-fido-u2f-admin.php:197
+msgid "You can find FIDO U2F Security Key devices for sale from here."
+msgstr "您可以在此处找到正在售卖的 FIDO U2F 安全密钥设备。"
+
+#: providers/class.two-factor-fido-u2f-admin.php:126
+msgid "Error while saving the changes."
+msgstr "保存更改时发生错误。"
+
+#. translators: %s: email address
+#: providers/class.two-factor-email.php:256
+msgid "Authentication codes will be sent to %s."
+msgstr "验证码将发送到 %s 。"
+
+#. translators: %s: count
+#: providers/class.two-factor-backup-codes.php:128
+#: providers/class.two-factor-backup-codes.php:235
+msgid "%s unused code remaining."
+msgid_plural "%s unused codes remaining."
+msgstr[0] "剩余 %s 个验证码未使用。"
+
+#: providers/class.two-factor-backup-codes.php:135
+msgid "Write these down!  Once you navigate away from this page, you will not be able to view these codes again."
+msgstr "记下这些！离开此页面后，您将无法再次查看这些验证码。"
+
+#: providers/class.two-factor-backup-codes.php:268
+msgid "Enter a backup verification code."
+msgstr "输入一个备用验证码。"
+
+#. translators: %s: the site's domain
+#: providers/class.two-factor-backup-codes.php:237
+msgid "Two-Factor Backup Codes for %s"
+msgstr "%s 的双重验证备用验证码"
+
+#: providers/class.two-factor-backup-codes.php:91
+msgctxt "Provider Label"
+msgid "Backup Verification Codes (Single Use)"
+msgstr "备用验证码（一次性使用）"
+
+#: providers/class.two-factor-backup-codes.php:75
+msgid "Two-Factor: You are out of backup codes and need to <a href=\"%s\">regenerate!</a>"
+msgstr "Two-Factor：您已没有备用验证码，需要<a href=\"%s\">重新生成！</a>"
+
+#: includes/function.login-header.php:99
+msgid "Powered by WordPress"
+msgstr "由 WordPress 提供支持"
+
+#: class.two-factor-core.php:437
+msgid "Or, use a backup method…"
+msgstr "或者，使用备份方法…"
+
+#. Plugin Name of the plugin
+msgid "Two Factor"
+msgstr "Two Factor"
+
+#: class.two-factor-core.php:686
+msgid "Two-Factor"
+msgstr "双重验证"
+
+#. Description of the plugin
+msgid "A prototype extensible core to enable Two-Factor Authentication."
+msgstr "一个原型可扩展核心，以启用双重验证。"

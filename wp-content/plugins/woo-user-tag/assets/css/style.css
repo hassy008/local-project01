@@ -1,0 +1,289 @@
+.select2-container {
+	display: block !important;
+	width: 100% !important;
+}
+.select2-container .select2-selection--single {height: 34px !important;}
+.swal2-icon.swal2-warning {	font-size: 20px !important;}
+.common-btn {
+	color: #fff !important;
+	text-decoration: none;
+	font-size: 20px;
+	padding: 15px 15px;
+	border: 1px solid transparent;
+	text-transform: uppercase;
+	display: inline-block;
+	cursor: pointer;
+	margin-right: 15px;
+	text-decoration: none;
+}
+.common-btn:hover{text-decoration: none !important;}
+a.main-addtag-btn{background:#84868F; box-shadow: 0px 0px 10px #84868F;}
+a.main-addcat-btn{background:#363A3C; box-shadow: 0px 0px 10px #363A3C;}
+a.main-addcampain-btn{background:#417CB8; box-shadow: 0px 0px 10px #417CB8;}
+.btn-add {
+	background: #0A84FF !important;
+	color: #fff !important;
+	transition: 0.5s;
+}
+.modal-dialog {
+	margin: 100px auto !important;
+}
+.btn-add:hover{color:#fff !important;}
+
+.main-pages-btns h3 {
+	padding-bottom: 30px;
+}
+
+.main-pages-btns {
+	padding-top: 50px;
+}
+.main-pages-btns h2{margin-top: 0;}
+
+
+/***| Categories table css from here|***/
+.categories-table table{background-color:#fff !important;}
+.categories-table{
+	padding-top: 50px;
+}
+.categories-table .table-bordered > thead > tr > th {
+    border-bottom-width: 1px;
+    text-align: center;
+}
+.categories-table .table-bordered > tbody > tr > td:first-child,
+.categories-table .table-bordered > tbody > tr > td:last-child{
+	text-align: center; 
+	width:150px;
+}
+.categories-table .table-bordered > tbody > tr > td span.edit,
+.categories-table .table-bordered > tbody > tr > td span.delete{cursor:pointer; transition: 0.5s;}
+.categories-table .table-bordered > tbody > tr > td span.edit:hover{color:#FBA650;}
+.categories-table .table-bordered > tbody > tr > td span.delete:hover{color:#AE2022;}
+
+
+
+/***| Tags table css from here|***/
+.tags-table table{background-color:#fff !important;}
+.tags-table{
+	padding-top: 50px;
+}
+.tags-table .table-bordered > thead > tr > th {
+    border-bottom-width: 1px;
+    text-align: center;
+}
+.tags-table .table-bordered > tbody > tr > td:nth-child(3),
+.tags-table .table-bordered > tbody > tr > td:first-child,
+.tags-table .table-bordered > tbody > tr > td:last-child{
+	text-align: center; 
+	width:150px;
+}
+.tags-table .table-bordered > tbody > tr > td span.edit,
+.tags-table .table-bordered > tbody > tr > td span.delete{cursor:pointer; transition: 0.5s;}
+.tags-table .table-bordered > tbody > tr > td span.edit:hover{color:#FBA650;}
+.tags-table .table-bordered > tbody > tr > td span.delete:hover{color:#AE2022;}
+
+
+/***| Campaign table css from here|***/
+.campaign-wrapper{
+	padding-top: 50px;
+}
+.campaign-wrapper h3 {
+	padding-bottom: 30px;
+}
+
+.campaign-wrapper .single-group #wp-content-editor-tools{
+	padding-top: 0 !important;
+}
+.campaign-wrapper .single-group{
+	padding-bottom: 15px;
+}
+.campaign-wrapper .single-group .left-title{}
+.campaign-wrapper .single-group .left-title h4{
+	font-size: 16px;
+	font-weight: 700;
+}
+.campaign-wrapper .single-group .right-content{}
+.campaign-wrapper .single-group .right-content p{
+	padding-top: 7px;
+	margin-left: -8px;
+}
+.short-description-table {padding-top: 50px;}
+.short-description-table .table-scroll {
+	max-height: 600px;
+	overflow-y: scroll;
+}
+.short-description-table table{
+	background-color: #fff;
+	word-wrap:break-word;
+	table-layout: fixed;
+}
+.short-description-table .table-bordered > thead > tr > th {
+    border-bottom-width: 1px;
+    text-align: center;
+}
+
+
+.short-list{
+	width: 50%;
+	display: block;
+	float: left;
+	overflow: hidden;
+	border-bottom: none !important;
+}
+.description{
+	width: 50%;
+	display: block;
+	float: right;
+	overflow: hidden;
+	border-bottom: none !important;
+}
+
+.campain-table table{background-color:#fff !important;}
+.campain-table {
+	padding-top: 50px;
+}
+
+.campain-table .table-bordered > thead > tr > th {
+    border-bottom-width: 1px;
+    text-align: center;
+}
+.campain-table .table-bordered > tbody > tr > td a.edit,
+.campain-table .table-bordered > tbody > tr > td span.delete{cursor:pointer; transition: 0.5s; text-decoration:none; color:inherit;}
+.campain-table .table-bordered > tbody > tr > td a.edit:hover{color:#FBA650; text-decoration:none;}
+.campain-table .table-bordered > tbody > tr > td span.delete:hover{color:#AE2022;}
+.campain-table .table-bordered > tbody > tr > td:last-child{
+	text-align: center; 
+	width:150px;
+}
+a.add-campain-btn {
+	background: #0A84FF !important;
+	color: #fff !important;
+	padding: 10px 14px;
+	font-size: 16px;
+	border-radius: 4px;
+	display: inline-block !important;
+	transition: 0.5s;
+}
+
+a.add-campain-btn:hover{
+	text-decoration: none !important;
+}
+
+.campain-email {
+	padding-top: 50px;
+}
+
+.campain-email h3 {
+	padding-bottom: 30px;
+}
+
+/***| Tab with table css from start here |***/
+.email-log h3 {
+	padding-bottom: 30px;
+}
+
+.upcoming-email-log-table .table-bordered > thead > tr > th,
+.send-email-log-table .table-bordered > thead > tr > th {
+    border-bottom-width: 1px;
+    text-align: center;
+}
+
+.email-log-tabs .nav-tabs > li > a {
+	margin-right: 0;
+	line-height: 1.42857143;
+	border: 1px solid #84868F;
+	background: #84868F;
+	border-radius: 0;
+	border-bottom: none !important;
+	color: #fff;
+}
+
+.email-log-tabs .nav-tabs > li.active > a{
+	color: #fff;
+	background-color: #0A84FF;
+}
+
+.email-log-tabs .nav > li.active > a:focus, 
+.email-log-tabs .nav > li.active > a:hover,
+.email-log-tabs .nav > li > a:focus, 
+.email-log-tabs .nav > li > a:hover {
+	text-decoration: none;
+	box-shadow: none;
+	border-color: #0A84FF;
+	background-color: #0A84FF;
+	color: #fff;
+}
+
+
+
+
+/***| Tab with table css end here |***/
+
+
+/***| Exporet Import Section css end here |***/
+
+.export-tab-section{
+	padding-top: 50px;
+}
+
+.export-import-section{
+	padding-top: 50px;
+}
+
+.data-table-section{
+	display: none;
+}
+
+.manage-field-box {
+	border: 2px solid #dfdfdf;
+	padding: 15px;
+}
+
+.ex-em-btns {
+	background: #0A84FF;
+	display: inline-block;
+	color: #fff !important;
+	cursor: pointer;
+	padding: 10px 15px;
+	font-size: 18px !important;
+	margin-right: 10px;
+	margin-left: 10px;
+	border-radius: 4px;
+	border: none;
+}
+
+/***| Tab section css here |***/
+.topbar-tab {
+	border-bottom: 1px solid #ccc;
+	margin-top: 50px;
+	padding-bottom: 3px;
+}
+
+a.tabitems{
+	border: 1px solid #ccc;
+	padding: 5px 15px;
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 600;
+	background: #e5e5e5;
+	color: #555;
+	text-decoration: none;
+}
+
+a.tabitems.active{
+	border-bottom: 1px solid #f1f1f1;
+	background: #f1f1f1;
+	color: #000;
+	margin-bottom: -1px;
+}
+
+a.tabitems:hover{
+	text-decoration: none;
+	color: #555;
+}
+#orderManageField .modal-body,
+#manageFieldModal .modal-body{
+    max-height: calc(80vh - 120px);
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+

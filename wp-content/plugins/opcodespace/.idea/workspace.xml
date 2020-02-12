@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8aebe78d-8087-4202-82cc-3e6d387490b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/inc/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/inc/vendor/phpoffice/phpword" />
+      <path value="$PROJECT_DIR$/inc/vendor/leafo/scssphp" />
+      <path value="$PROJECT_DIR$/inc/vendor/composer" />
+      <path value="$PROJECT_DIR$/inc/vendor/zendframework/zend-escaper" />
+      <path value="$PROJECT_DIR$/inc/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/inc/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/inc/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/inc/vendor/pclzip/pclzip" />
+      <path value="$PROJECT_DIR$/inc/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/inc/vendor/phpoffice/common" />
+      <path value="E:/library/wordpress" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1WxxKMjZ3WM9XiSZ2AEdK9OVhgu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="E:/library/wordpress" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8aebe78d-8087-4202-82cc-3e6d387490b9" name="Default Changelist" comment="" />
+      <created>1580104981535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580104981535</updated>
+      <workItem from="1580104982864" duration="309000" />
+      <workItem from="1580105332830" duration="770000" />
+      <workItem from="1580106119567" duration="850000" />
+      <workItem from="1580106985525" duration="3193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="538" y="92" key="#CLI_Interpreters" timestamp="1580107942097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="538" y="92" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1580107942097" />
+    <state x="510" y="0" width="875" height="1040" key="#PHP" timestamp="1580107975475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="510" y="0" width="875" height="1040" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1580107975475" />
+    <state x="771" y="431" key="#WordPress" timestamp="1580106140598">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="431" key="#WordPress/0.0.1920.1040@0.0.1920.1040" timestamp="1580106140598" />
+    <state x="690" y="200" key="FileChooserDialogImpl" timestamp="1580118086924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="200" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580118086924" />
+    <state x="360" y="76" width="1379" height="887" key="SettingsEditor" timestamp="1580115052084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="360" y="76" width="1379" height="887" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580115052084" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>E:\library\wordpress</wordpressPath>
+  </component>
+</project>

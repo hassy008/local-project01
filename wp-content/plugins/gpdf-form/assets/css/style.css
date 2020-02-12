@@ -1,0 +1,74 @@
+.gf-pdf-form h2{color:pink;}
+.gf-pdf-form ol .col-sm-2.control-label {
+	padding: 0;
+}
+
+.gf-pdf-form a.chosen-single:hover{
+	text-decoration: none;
+	color: inherit;
+	cursor: pointer;
+}
+.bootstrap-wrapper .form-control:focus {
+    border-color: #ced4da !important;
+    box-shadow: none !important;
+}
+
+.gf-pdf-form a.chosen-single:focus{
+	border-color: inherit;
+	text-decoration: none;
+	box-shadow: none;
+}
+
+
+/*** Big check Button CSS START****/
+.my-sqr-check-btn label {
+	display: block;
+	position:relative;
+	padding-left: 30px;
+}
+
+.my-sqr-check-btn input[type="checkbox"] {
+    display: none;
+}
+
+.my-sqr-check-btn input[type="checkbox"] + label::before {
+    width: 20px;
+    height: 20px;
+    background: #fff;
+    position: absolute;
+    content: '';
+    left: 0px;
+    top: 0px;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.my-sqr-check-btn input[type="checkbox"] + label::after {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    content: '\f00c';
+    font-family: FontAwesome;
+    color: #fff;
+    cursor: pointer;
+    left: 0px;
+    top: 0px;
+    font-size: 13px;
+    border: 1px solid #2e6da4;
+    background: transparent;
+    border-radius: 4px;
+    line-height: 17px;
+    transform: scale(0);
+    transition: 0.4s;
+    text-align: center;
+}
+
+.my-sqr-check-btn input[type="checkbox"]:checked + label::after{
+    transform: scale(1);
+    background: #337ab7;
+    border-color: #2e6da4;
+    text-align: center;
+}
+/*** Big check Button CSS START****/

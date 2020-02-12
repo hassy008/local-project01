@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/inc/vendor/phpoffice/phpword" />
+      <path value="$PROJECT_DIR$/inc/vendor/leafo/scssphp" />
+      <path value="$PROJECT_DIR$/inc/vendor/composer" />
+      <path value="$PROJECT_DIR$/inc/vendor/zendframework/zend-escaper" />
+      <path value="$PROJECT_DIR$/inc/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/inc/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/inc/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/inc/vendor/pclzip/pclzip" />
+      <path value="$PROJECT_DIR$/inc/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/inc/vendor/phpoffice/common" />
+      <path value="E:/library/wordpress" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.4" />
+</project>

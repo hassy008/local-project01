@@ -1,0 +1,12 @@
+2019-10-17T06:04:49+00:00 CRITICAL Cannot declare class ComposerAutoloaderInitc16657416dcb65d2d39976346c6e4fea, because the name is already in use in C:\xampp\htdocs\wordpress_woocom\wp-content\plugins\opcodespace\inc\vendor\composer\autoload_real.php on line 5
+
+2019-10-17T06:04:51+00:00 CRITICAL Cannot declare class ComposerAutoloaderInitc16657416dcb65d2d39976346c6e4fea, because the name is already in use in C:\xampp\htdocs\wordpress_woocom\wp-content\plugins\opcodespace\inc\vendor\composer\autoload_real.php on line 5
+
+2019-10-17T06:04:51+00:00 CRITICAL Cannot declare class ComposerAutoloaderInitc16657416dcb65d2d39976346c6e4fea, because the name is already in use in C:\xampp\htdocs\wordpress_woocom\wp-content\plugins\opcodespace\inc\vendor\composer\autoload_real.php on line 5
+
+2019-10-17T06:04:58+00:00 CRITICAL Cannot declare class ComposerAutoloaderInitc16657416dcb65d2d39976346c6e4fea, because the name is already in use in C:\xampp\htdocs\wordpress_woocom\wp-content\plugins\opcodespace\inc\vendor\composer\autoload_real.php on line 5
+
+2019-10-17T06:05:00+00:00 CRITICAL Cannot declare class ComposerAutoloaderInitc16657416dcb65d2d39976346c6e4fea, because the name is already in use in C:\xampp\htdocs\wordpress_woocom\wp-content\plugins\opcodespace\inc\vendor\composer\autoload_real.php on line 5
+
+2019-10-17T06:05:00+00:00 CRITICAL Cannot declare class ComposerAutoloaderInitc16657416dcb65d2d39976346c6e4fea, because the name is already in use in C:\xampp\htdocs\wordpress_woocom\wp-content\plugins\opcodespace\inc\vendor\composer\autoload_real.php on line 5
+

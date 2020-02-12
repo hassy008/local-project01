@@ -1,0 +1,134 @@
+.wpml-ls-item a {
+  padding-right: 15px; }
+  .wpml-ls-item .wpml-ls-display {
+    display: none; }
+
+.custom-bg {
+  max-width: 800px;
+  background-color: #fd0808;
+  padding: 30px 15px;
+  margin: 0 auto; }
+
+.color-text {
+  color: #5aa3e5;
+  font-size: 18px;
+  font-weight: 700; }
+
+.para {
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 700;
+  color: #2383fe; }
+
+.price {
+  color: #0358a9;
+  font-size: 50px;
+  line-height: 60px;
+  font-weight: 700;
+  padding: 20px 0 5px 0; }
+
+.base-amount {
+  margin-bottom: 40px;
+  font-size: 18px;
+  color: #0358a9; }
+
+.paypal-img img {
+  max-width: 120px; }
+
+.reg-col-right {
+  margin-top: 10px; }
+
+.reg-col-left {
+  border-right: 3px solid #fff; }
+
+.gf-hide {
+  position: fixed; }
+
+#gform_wrapper_6 .gform_footer {
+  display: none; }
+
+.register-btn {
+  display: block !important;
+  border-radius: 0 !important;
+  width: 100%;
+  margin-top: 20px;
+  background: #0358a9 !important;
+  border-color: #0358a9 !important;
+  font-size: 22px !important; }
+
+.register-btn:hover {
+  background: #3261a4; }
+
+.price .base-amount {
+  font-size: 40%;
+  font-weight: 400; }
+
+#gform_wrapper_6.gform_wrapper {
+  margin: 0 auto; }
+
+#gform_fields_6 .gfield_label {
+  display: none; }
+
+#field_6_8 .gfield_label {
+  display: block; }
+
+#field_6_16 .gfield_label {
+  display: block; }
+
+#gform_wrapper_6.gform_wrapper input:not([type="radio"]):not([type="checkbox"]):not([type="submit"]):not([type="button"]):not([type="image"]):not([type="file"]) {
+  padding: 15px 15px; }
+
+#input_6_10:focus {
+  border-color: #66afe9;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(102, 175, 233, .6);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(102, 175, 233, .6); }
+
+#gform_wrapper_6.gform_wrapper input:not([type="radio"]):not([type="checkbox"]):not([type="submit"]):not([type="button"]):not([type="image"]):not([type="file"]):focus {
+  border-color: #66afe9;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(102, 175, 233, .6);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(102, 175, 233, .6); }
+
+.gform_wrapper input[type="submit"] {
+  border: none;
+  background: #003a8e;
+  color: #fff;
+  padding: 10px 30px;
+  cursor: pointer;
+  font-size: 16px !important;
+  transition: 0.5s; }
+
+.gform_wrapper input[type="submit"]:hover {
+  background: #3261a4; }
+
+#field_6_1.gsection {
+  border-bottom: none;
+  margin-bottom: 0; }
+
+#field_6_1 h2.gsection_title {
+  font-size: 2em;
+  color: #003a8e; }
+
+#gform_fields_6 div.ginput_container {
+  margin-top: 1px; }
+
+#gform_fields_6 .gfield_radio label {
+  font-weight: normal; }
+
+.reg-title h1, .reg-title p {
+  padding-left: 13%; }
+
+#input_6_8 li {
+  min-height: 10px !important; }
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+  #input_6_10 {
+    width: 100%; }
+
+  #input_6_8.gfield_radio li {
+    min-height: 23px !important; } }
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  #input_6_10 {
+    width: 100%; } }
